@@ -1,7 +1,11 @@
 # Employee Perfomance
 Employee Performance Management Package to manage subjects measureables.
 
-# Definition
+## Installation
+
+Run the following command from you terminal:
+
+## Definition
 Package that allows to manage measureable objectives through business structure
 
 # License
